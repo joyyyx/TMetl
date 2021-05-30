@@ -1,0 +1,8 @@
+<source>
+<db_server>//192.168.210.5</db_server>
+<db_type>ORACLE</db_type>	
+<db_name>/orcl</db_name>
+<db_port>1521</db_port>
+<db_user>GCPPlat</db_user>
+<db_pwd>gcpuis</db_pwd>
+</source>

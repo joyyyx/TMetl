@@ -1,0 +1,8 @@
+<source>
+<db_server>localhost</db_server>
+<db_type>MSSQLNATIVE</db_type>
+<db_name>ODS</db_name>
+<db_port>1433</db_port>
+<db_user>sa</db_user>
+<db_pwd>taimei123</db_pwd>
+</source>
